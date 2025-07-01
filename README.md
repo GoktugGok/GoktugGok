@@ -17,8 +17,6 @@
 
 ## 🚀 Proje Galerim
 
-## 🚀 Proje Galerim
-
 <table>
   <tr>
     <!-- SOLDAKİ PROJE: Shoes Shop -->
