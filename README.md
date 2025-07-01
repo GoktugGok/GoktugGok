@@ -19,10 +19,9 @@
 
 <p align="center">
   <a href="https://github.com/GoktugGok/Shoes_Shop">
-    <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home.png" width="180" alt="Ana Sayfa Ekran Görüntüsü"/>
+    <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home.png" width="600" alt="Ana Sayfa Ekran Görüntüsü"/>
   </a>
   <br/>
-  <b>Ana Sayfa Ekran Görüntüsü</b>
 </p>
 
 
