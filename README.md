@@ -56,7 +56,8 @@
       </a>
     </td>
   </tr>
-</table> 
+</table>
+<div align="center">
 <table>
   <tr>
     <!-- MovieApp React Native -->
@@ -80,3 +81,4 @@
     </td>
   </tr>
 </table>
+</div>
