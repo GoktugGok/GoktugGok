@@ -56,7 +56,7 @@
       </a>
     </td>
   </tr>
-  <tr>
+  <tr style="margin-top:20px";>
     <!-- MovieApp React Native -->
     <br>
     <td align="center" width="50%" style="vertical-align:top;">
@@ -70,13 +70,13 @@
         <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/main_screen.jpeg" width="130" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Ana Sayfa"/>
       </a>
       <a href="https://github.com/GoktugGok/MovieApp-React-Native">
-        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/movie-detail_screen.jpeg" width="100" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Film Detay"/>
+        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/movie-detail_screen.jpeg" width="130" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Film Detay"/>
       </a>
       <a href="https://github.com/GoktugGok/MovieApp-React-Native">
-        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/search_screen.jpeg" width="100" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Search"/>
+        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/search_screen.jpeg" width="130" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Search"/>
       </a>
       <a href="https://github.com/GoktugGok/MovieApp-React-Native">
-        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/favorites.jpeg" width="100" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Favoriler"/>
+        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/favorites.jpeg" width="130" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Favoriler"/>
       </a>
     </td>
   </tr>
