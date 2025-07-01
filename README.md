@@ -55,6 +55,8 @@
         <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/productC.gif" width="90" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Ürün Detay"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <!-- MovieApp React Native -->
     <br>
     <td align="center" width="50%" style="vertical-align:top;">
@@ -77,6 +79,5 @@
         <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/favorites.jpeg" width="85" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Favoriler"/>
       </a>
     </td>
-    
   </tr>
 </table> 
