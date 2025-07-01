@@ -1,4 +1,4 @@
-# Merhaba, Ben [Goktug Gok]! 👋
+# Merhaba, Ben Goktug Gok! 👋
 
 ## 🚀 Hakkımda
 - 🔭 Şu anda **[Proje/İş]** üzerinde çalışıyorum.
