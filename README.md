@@ -55,7 +55,42 @@
         <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/productC.gif" width="90" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Ürün Detay"/>
       </a>
     </td>
+    <br/>
+
+<!-- MovieApp-React-Native Projesi Galerisi -->
+<div align="center">
+
+<a href="https://github.com/GoktugGok/MovieApp-React-Native">
+  <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/main_screen.jpeg" width="200" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Ana Sayfa"/>
+</a>
+<br/>
+<b>MovieApp – React Native</b>
+<br/>
+<sub>Modern film keşif uygulaması (React Native + TS + TMDB API)</sub>
+<br/><br/>
+<!-- Alt galeri -->
+<a href="https://github.com/GoktugGok/MovieApp-React-Native">
+  <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/movie-detail_screen.jpeg" width="80" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Film Detay"/>
+</a>
+<a href="https://github.com/GoktugGok/MovieApp-React-Native">
+  <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/search_screen.jpeg" width="80" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Search"/>
+</a>
+<a href="https://github.com/GoktugGok/MovieApp-React-Native">
+  <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/favorites.jpeg" width="80" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Favoriler"/>
+</a>
+<a href="https://github.com/GoktugGok/MovieApp-React-Native">
+  <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/profile.jpeg" width="80" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Profil"/>
+</a>
+<a href="https://github.com/GoktugGok/MovieApp-React-Native">
+  <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/login_screen.jpeg" width="80" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Giriş"/>
+</a>
+<a href="https://github.com/GoktugGok/MovieApp-React-Native">
+  <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/profile-setting_screen.jpeg" width="80" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Ayarlar"/>
+</a>
+
+</div>
   </tr>
+  
 </table>
 
 
