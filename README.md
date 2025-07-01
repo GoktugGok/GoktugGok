@@ -1,16 +1,19 @@
-## Hi there 👋
+# Merhaba, Ben [Goktug Gok]! 👋
 
-<!--
-**GoktugGok/GoktugGok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Hakkımda
+- 🔭 Şu anda **[Proje/İş]** üzerinde çalışıyorum.
+- 🌱 **Öğreniyorum:** [Öğrendiğin teknolojiler/diller]
+- 👯 **İşbirliği:** [Açık kaynak projeler/ortak çalışma alanları]
+- 📫 **Bana Ulaşın:** [Email/Telegram/Twitter vb.]
+- 😄 **Hobilerim:** [Müzik, Spor, Seyahat vb.]
 
-Here are some ideas to get you started:
+## 🛠️ Teknolojiler ve Araçlar
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub İstatistiklerim
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadin&show_icons=true&theme=radical)
+
+## 🔥 Katkı Sağladığım Projeler
+![Top Projeler](https://github-readme-stats.vercel.app/api/pin/?username=kullaniciadin&repo=repo-adi&theme=dark)
