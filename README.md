@@ -7,13 +7,15 @@
 - 📫 **Bana Ulaşın:** [Email/Telegram/Twitter vb.]
 - 😄 **Hobilerim:** [Müzik, Spor, Seyahat vb.]
 
-## 🛠️ Teknolojiler ve Araçlar
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=GoktugGok&layout=compact&langs_count=8&theme=github_dark)
+
+## 🛠️ Kullandığım Diller
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+...
+
 ## 📈 GitHub İstatistiklerim
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadin&show_icons=true&theme=radical)
 
-## 🔥 Katkı Sağladığım Projeler
-![Top Projeler](https://github-readme-stats.vercel.app/api/pin/?username=kullaniciadin&repo=repo-adi&theme=dark)
+
