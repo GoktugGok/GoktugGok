@@ -58,10 +58,10 @@
   </tr>
 </table> 
 <table>
-  <tr style="margin-top:20px";>
+  <tr>
     <!-- MovieApp React Native -->
     <br>
-    <td align="center" width="50%" style="vertical-align:top;">
+    <td align="center" width="100%" style="vertical-align:top;">
       <br/>
       <b>MovieApp – React Native</b>
       <br/>
