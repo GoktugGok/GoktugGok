@@ -15,10 +15,12 @@
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ...
 
+## 🚀 Proje Galerim
+
 <table>
   <tr>
-    <!-- SOLDAKİ PROJE -->
-    <td align="center" width="50%">
+    <!-- SOLDAKİ PROJE: Shoes Shop -->
+    <td align="center" width="50%" style="vertical-align:top;">
       <a href="https://github.com/GoktugGok/Shoes_Shop">
         <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home.png" width="220" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop Ana Sayfa"/>
       </a>
@@ -26,7 +28,8 @@
       <b>Shoes Shop</b>
       <br/>
       <sub>Django tabanlı e-ticaret platformu</sub>
-      <br/>
+      <br/><br/>
+      <!-- Alt galeri -->
       <a href="https://github.com/GoktugGok/Shoes_Shop">
         <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home2.png" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 2"/>
       </a>
@@ -34,22 +37,42 @@
         <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home3.png" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 3"/>
       </a>
     </td>
+    <!-- SAĞDAKİ PROJE: Jewelry E-Commerce -->
+    <td align="center" width="50%" style="vertical-align:top;">
+      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
+        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/mainC.gif" width="220" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Ana Sayfa"/>
+      </a>
+      <br/>
+      <b>Jewelry E-Commerce</b>
+      <br/>
+      <sub>Pandora tarzı, gerçek zamanlı filtreleme & mobil uyumlu alışveriş sitesi</sub>
+      <br/><br/>
+      <!-- Alt galeri -->
+      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
+        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/menuC.gif" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Ürün Listesi"/>
+      </a>
+      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
+        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/productC.gif" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Ürün Detay"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-    <!-- SAĞDAKİ PROJE -->
-    <td align="center" width="50%">
-      <a href="https://github.com/GoktugGok/Baska_Proje">
-        <img src="https://github.com/GoktugGok/Baska_Proje/raw/main/screenshots/sample1.png" width="220" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Başka Proje Ana Sayfa"/>
+<!-- Alt satır: Mobil görünümler -->
+<table>
+  <tr>
+    <td align="center" width="50%" style="vertical-align:top;">
+      <!-- Shoes Shop mobil örnek yok, boş bırakılabilir veya başka görsel eklenebilir -->
+    </td>
+    <td align="center" width="50%" style="vertical-align:top;">
+      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
+        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/mainM.gif" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Mobil Ana Sayfa"/>
       </a>
-      <br/>
-      <b>Başka Proje</b>
-      <br/>
-      <sub>React tabanlı modern uygulama</sub>
-      <br/>
-      <a href="https://github.com/GoktugGok/Baska_Proje">
-        <img src="https://github.com/GoktugGok/Baska_Proje/raw/main/screenshots/sample2.png" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Başka Proje 2"/>
+      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
+        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/menuM.gif" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Mobil Ürün Listesi"/>
       </a>
-      <a href="https://github.com/GoktugGok/Baska_Proje">
-        <img src="https://github.com/GoktugGok/Baska_Proje/raw/main/screenshots/sample3.png" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Başka Proje 3"/>
+      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
+        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/productM.gif" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Mobil Ürün Detay"/>
       </a>
     </td>
   </tr>
