@@ -17,8 +17,6 @@
 
 ## 🖼️ Proje Galerisi
 
-<!-- Proje Galerisi: 2 Sütun, Shadow ve Border -->
-
 <p align="center">
   <a href="https://github.com/GoktugGok/Shoes_Shop">
     <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home.png" width="240"
