@@ -15,7 +15,14 @@
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ...
 
-## 📈 GitHub İstatistiklerim
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadin&show_icons=true&theme=radical)
+## 🖼️ Proje Galerisi
+
+<p align="center">
+  <a href="https://github.com/GoktugGok/Shoes_Shop">
+    <img src="screenshots/home.png" width="180" alt="Ana Sayfa Ekran Görüntüsü"/>
+  </a>
+  <br/>
+  <b>Ana Sayfa Ekran Görüntüsü</b>
+</p>
 
 
