@@ -54,15 +54,6 @@
       <a href="https://github.com/GoktugGok/jewelry-e-commerce">
         <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/productC.gif" width="90" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Ürün Detay"/>
       </a>
-      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
-        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/mainM.gif" width="90" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Mobil Ana Sayfa"/>
-      </a>
-      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
-        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/menuM.gif" width="90" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Mobil Ürün Listesi"/>
-      </a>
-      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
-        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/productM.gif" width="90" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Mobil Ürün Detay"/>
-      </a>
     </td>
   </tr>
 </table>
