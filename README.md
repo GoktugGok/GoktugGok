@@ -63,11 +63,11 @@
   <table>
     <tr>
       <td align="center">
+        <h3>MovieApp – React Native</h3>
+        <p>Modern film keşif uygulaması (React Native + TS + TMDB API)</p>
         <a href="https://github.com/GoktugGok/MovieApp-React-Native">
           <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/main_screen.jpeg" width="30%" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Main"/>
         </a>
-        <h3>MovieApp – React Native</h3>
-        <p>Modern film keşif uygulaması (React Native + TS + TMDB API)</p>
         <a href="https://github.com/GoktugGok/MovieApp-React-Native">
           <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/movie-detail_screen.jpeg" width="30%" style="margin:5px; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Detail"/>
         </a>
