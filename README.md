@@ -61,7 +61,7 @@
     <br>
     <td align="center" width="50%" style="vertical-align:top;">
       <a href="https://github.com/GoktugGok/MovieApp-React-Native">
-        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/main_screen.jpeg" height="500" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Ana Sayfa"/>
+        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/main_screen.jpeg" width="150" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Ana Sayfa"/>
       </a>
       <br/>
       <b>MovieApp – React Native</b>
