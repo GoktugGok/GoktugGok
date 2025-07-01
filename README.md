@@ -2,11 +2,12 @@
 
 ## 🚀 Hakkımda
 
-🔭 Şu anda kişisel projeler geliştiriyorum ve teknik becerilerimi ileri seviyeye taşımaya odaklanıyorum.  
-🌱 Öğreniyorum: React Native, Next.js, Prisma, Docker  
-👯 İşbirliği: Açık kaynak projeler, frontend/backend entegrasyon çalışmaları ve takım tabanlı uygulama geliştirme  
-📫 Bana Ulaşın: gokgoktug0@gmail.com  
-😄 Hobilerim: Müzik dinlemek 🎧, yürüyüş yapmak 🚶, teknoloji gündemini takip etmek 💻, kahve eşliğinde kod yazmak ☕
+🔭 **Şu anda** kişisel projeler geliştiriyorum ve teknik becerilerimi daha ileri seviyelere taşımak için çalışıyorum.  
+🌱 **Öğreniyorum:** React Native, Next.js, Prisma, Docker ve daha fazlası!  
+👯 **İşbirliği:** Açık kaynak projeler, frontend/backend entegrasyonları ve takım tabanlı uygulama geliştirme süreçlerinde yer almak.  
+📫 **Bana Ulaşın:** gokgoktug0@gmail.com  
+😄 **Hobilerim:** Müzik dinlemek 🎧, kahve içerek kod yazmak ☕, yürüyüş yaparak ilham almak 🚶‍♂️, yeni teknolojiler hakkında okumak 📚
+
 
 
 ## 🛠️ Kullandığım Diller
