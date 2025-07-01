@@ -22,7 +22,7 @@
     <!-- SOLDAKİ PROJE: Shoes Shop -->
     <td align="center" width="50%" style="vertical-align:top;">
       <a href="https://github.com/GoktugGok/Shoes_Shop">
-        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home.png" width="220" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop Ana Sayfa"/>
+        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home.png" width="400" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop Ana Sayfa"/>
       </a>
       <br/>
       <b>Shoes Shop</b>
