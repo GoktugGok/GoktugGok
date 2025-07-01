@@ -40,7 +40,7 @@
     <!-- SAĞDAKİ PROJE: Jewelry E-Commerce -->
     <td align="center" width="50%" style="vertical-align:top;">
       <a href="https://github.com/GoktugGok/jewelry-e-commerce">
-        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/mainC.gif" width="220" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Ana Sayfa"/>
+        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/mainC.gif"  style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Ana Sayfa"/>
       </a>
       <br/>
       <b>Jewelry E-Commerce</b>
@@ -58,24 +58,5 @@
   </tr>
 </table>
 
-<!-- Alt satır: Mobil görünümler -->
-<table>
-  <tr>
-    <td align="center" width="50%" style="vertical-align:top;">
-      <!-- Shoes Shop mobil örnek yok, boş bırakılabilir veya başka görsel eklenebilir -->
-    </td>
-    <td align="center" width="50%" style="vertical-align:top;">
-      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
-        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/mainM.gif" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Mobil Ana Sayfa"/>
-      </a>
-      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
-        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/menuM.gif" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Mobil Ürün Listesi"/>
-      </a>
-      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
-        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/productM.gif" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Mobil Ürün Detay"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 
