@@ -37,7 +37,6 @@
         <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home3.png" width="30%" style="margin:5px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 3"/>
       </a>
     </td>
-    
     <!-- SAĞDAKİ PROJE: Jewelry E-Commerce -->
     <td align="center" width="50%">
       <a href="https://github.com/GoktugGok/jewelry-e-commerce">
