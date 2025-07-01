@@ -22,7 +22,7 @@
     <!-- SOLDAKİ PROJE: Shoes Shop -->
     <td align="center" width="50%" style="vertical-align:top;">
       <a href="https://github.com/GoktugGok/Shoes_Shop">
-        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home.png" width="400" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop Ana Sayfa"/>
+        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home.png" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop Ana Sayfa"/>
       </a>
       <br/>
       <b>Shoes Shop</b>
@@ -31,10 +31,10 @@
       <br/><br/>
       <!-- Alt galeri -->
       <a href="https://github.com/GoktugGok/Shoes_Shop">
-        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home2.png" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 2"/>
+        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home2.png" width="120" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 2"/>
       </a>
       <a href="https://github.com/GoktugGok/Shoes_Shop">
-        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home3.png" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 3"/>
+        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home3.png" width="120" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 3"/>
       </a>
     </td>
     <!-- SAĞDAKİ PROJE: Jewelry E-Commerce -->
@@ -49,10 +49,10 @@
       <br/><br/>
       <!-- Alt galeri -->
       <a href="https://github.com/GoktugGok/jewelry-e-commerce">
-        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/menuC.gif" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Ürün Listesi"/>
+        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/menuC.gif" width="120" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Ürün Listesi"/>
       </a>
       <a href="https://github.com/GoktugGok/jewelry-e-commerce">
-        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/productC.gif" width="95" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Ürün Detay"/>
+        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/productC.gif" width="120" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce Ürün Detay"/>
       </a>
     </td>
   </tr>
