@@ -1,11 +1,12 @@
 # Merhaba, Ben Goktug Gok! 👋
 
 ## 🚀 Hakkımda
-- 🔭 Şu anda **[Proje/İş]** üzerinde çalışıyorum.
-- 🌱 **Öğreniyorum:** [Öğrendiğin teknolojiler/diller]
-- 👯 **İşbirliği:** [Açık kaynak projeler/ortak çalışma alanları]
-- 📫 **Bana Ulaşın:** [Email/Telegram/Twitter vb.]
-- 😄 **Hobilerim:** [Müzik, Spor, Seyahat vb.]
+
+🔭 Şu anda kişisel projeler geliştiriyorum ve teknik becerilerimi ileri seviyeye taşımaya odaklanıyorum.  
+🌱 Öğreniyorum: React Native, Next.js, Prisma, Docker  
+👯 İşbirliği: Açık kaynak projeler, frontend/backend entegrasyon çalışmaları ve takım tabanlı uygulama geliştirme  
+📫 Bana Ulaşın: gokgoktug0@gmail.com  
+😄 Hobilerim: Müzik dinlemek 🎧, yürüyüş yapmak 🚶, teknoloji gündemini takip etmek 💻, kahve eşliğinde kod yazmak ☕
 
 
 ## 🛠️ Kullandığım Diller
