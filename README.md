@@ -77,9 +77,6 @@
       <a href="https://github.com/GoktugGok/MovieApp-React-Native">
         <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/search_screen.jpeg" width="90" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Search"/>
       </a>
-      <a href="https://github.com/GoktugGok/MovieApp-React-Native">
-        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/favorites.jpeg" width="90" style="margin-top:10px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Favoriler"/>
-      </a>
     </td>
   </tr>
 </table>
