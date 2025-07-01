@@ -17,11 +17,31 @@
 
 ## 🖼️ Proje Galerisi
 
+<!-- Proje Galerisi: 2 Sütun, Shadow ve Border -->
+
 <p align="center">
   <a href="https://github.com/GoktugGok/Shoes_Shop">
-    <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home.png" width="600" alt="Ana Sayfa Ekran Görüntüsü"/>
+    <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home.png" width="240"
+      style="margin:10px; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;"
+      alt="Ana Sayfa Ekran" />
   </a>
-  <br/>
+  <a href="https://github.com/GoktugGok/Shoes_Shop">
+    <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home2.png" width="240"
+      style="margin:10px; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;"
+      alt="Ana Sayfa 2" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/GoktugGok/Shoes_Shop">
+    <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home3.png" width="240"
+      style="margin:10px; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;"
+      alt="Ana Sayfa 3" />
+  </a>
+  <a href="https://github.com/GoktugGok/Shoes_Shop">
+    <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home4.png" width="240"
+      style="margin:10px; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;"
+      alt="Ana Sayfa 4" />
+  </a>
 </p>
 
 
