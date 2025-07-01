@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-
+![Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=GoktugGok&layout=compact&langs_count=8&theme=github_dark)
 ## 📈 GitHub İstatistiklerim
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadin&show_icons=true&theme=radical)
 
