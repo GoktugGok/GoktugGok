@@ -18,11 +18,9 @@
 ## 🖼️ Proje Galerisi
 
 <p align="center">
-  <a href="https://github.com/GoktugGok/Shoes_Shop">
-    <img src="screenshots/home.png" width="180" alt="Ana Sayfa Ekran Görüntüsü"/>
+  <a href="https://github.com/GoktugGok/Shoes_Shop" target="_blank">
+    <img src="screenshots/home.png" width="180" alt="Ana Sayfa Ekran Görüntüsü" />
   </a>
-  <br/>
-  <b>Ana Sayfa Ekran Görüntüsü</b>
 </p>
 
 
