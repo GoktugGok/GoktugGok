@@ -1,4 +1,4 @@
-# Merhaba, Ben Goktug Gok! 👋
+# Merhaba, Ben Göktuğ GÖK! 👋
 
 ## 🚀 Hakkımda
 
