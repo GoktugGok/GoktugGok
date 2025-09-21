@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-🔭 I’m currently working on personal projects and advancing my technical skills in backend and frontend development.
-🌱 I’m currently learning: React Native, Next.js, Prisma, Docker
-👯 I’m looking to collaborate on: Open-source projects, team-based applications, and API integrations
-📫 How to reach me: gokgoktug0@gmail.com
-😄 Hobbies: Listening to music 🎧, hiking 🚶, keeping up with tech news 💻, coding with coffee ☕
+🔭 I'm currently developing personal projects and advancing my technical skills in backend and frontend areas
+🌱 Learning: React Native, Next.js, Prisma, Docker
+👯 Looking to collaborate on: Open source projects, team-based applications and API integrations
+📫 Reach me at: gokgoktug0@gmail.com
+😄 My hobbies: Listening to music 🎧, hiking 🚶, following technology news 💻, coding with coffee ☕
 
 
 
