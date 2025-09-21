@@ -1,19 +1,19 @@
-# Merhaba, Ben Göktuğ GÖK! 👋
+# Hello, I'm Göktuğ GÖK! 👋
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-🔭 Şu anda kişisel projeler geliştiriyor, backend ve frontend alanlarında teknik becerilerimi ileri seviyeye taşıyorum.  
-🌱 Öğreniyorum: React Native, Next.js, Prisma, Docker  
-👯 İşbirliği: Açık kaynak projeler, takım tabanlı uygulamalar ve API entegrasyonları  
-📫 Bana ulaşın: gokgoktug0@gmail.com  
-😄 Hobilerim: Müzik dinlemek 🎧, yürüyüş yapmak 🚶, teknoloji gündemini takip etmek 💻, kahve eşliğinde kodlamak ☕
+🔭 I’m currently working on personal projects and advancing my technical skills in backend and frontend development.
+🌱 I’m currently learning: React Native, Next.js, Prisma, Docker
+👯 I’m looking to collaborate on: Open-source projects, team-based applications, and API integrations
+📫 How to reach me: gokgoktug0@gmail.com
+😄 Hobbies: Listening to music 🎧, hiking 🚶, keeping up with tech news 💻, coding with coffee ☕
 
 
 
 
 ## 🛠️ Kullandığım Teknolojiler
 
-### 🔤 Diller
+### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -35,17 +35,17 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-### 🗃️ Veritabanı
+### 🗃️ Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-### 🔐 Kimlik Doğrulama & Güvenlik
+### 🔐 Authentication & Security
 ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-2867B2?logo=oauth&logoColor=white)
 ![CORS](https://img.shields.io/badge/CORS-grey)
 
-### ⚙️ Araçlar ve Ortamlar
+### ⚙️ Tools & Environments
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
