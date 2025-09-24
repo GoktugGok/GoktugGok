@@ -52,7 +52,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 
-## 🚀 Proje Galerim
+## 🚀 Project Gallery
 
 <table>
   <tr>
@@ -64,7 +64,7 @@
       <br/>
       <b>Shoes Shop</b>
       <br/>
-      <sub>Django tabanlı e-ticaret platformu</sub>
+      <sub>Django-based e-commerce platform</sub>
       <br/><br/>
       <!-- Alt galeri -->
       <a href="https://github.com/GoktugGok/Shoes_Shop">
@@ -82,7 +82,7 @@
       <br/>
       <b>Jewelry E-Commerce</b>
       <br/>
-      <sub>Pandora tarzı, gerçek zamanlı filtreleme & mobil uyumlu alışveriş sitesi</sub>
+      <sub>Pandora-style, real-time filtering & mobile-friendly shopping site</sub>
       <br/><br/>
       <!-- Alt galeri -->
       <a href="https://github.com/GoktugGok/jewelry-e-commerce">
@@ -101,7 +101,7 @@
     <tr>
       <td align="center">
         <h3>MovieApp – React Native</h3>
-        <p>Modern film keşif uygulaması (React Native + TS + TMDB API)</p>
+        <p>Modern movie discovery app (React Native + TS + TMDB API)</p>
         <a href="https://github.com/GoktugGok/MovieApp-React-Native">
           <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/main_screen.jpeg" width="28%" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Main"/>
         </a>
