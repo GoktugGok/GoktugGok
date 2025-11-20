@@ -119,7 +119,7 @@
       <br/>
       <b>🎵 FocusFlow - Lofi Music & Focus App</b>
       <br/>
-      <sub>Pandora-style, real-time filtering & mobile-friendly shopping site</sub>
+      <sub>Modern lofi music app with Pomodoro timer, real-time chat & ambient sounds</sub>
       <br/><br/>
       <!-- Alt galeri -->
       <a href="https://github.com/GoktugGok/FocusFlow">
