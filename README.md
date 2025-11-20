@@ -8,9 +8,6 @@
 📫 Reach me at: gokgoktug0@gmail.com<br>
 😄 My hobbies: Listening to music 🎧, hiking 🚶, following technology news 💻, coding with coffee ☕<br>
 
-
-
-
 ## 🛠️ Technologies I Use
 
 ### 🔤 Languages
@@ -51,67 +48,104 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-
 ## 🚀 Project Gallery
 
+### 🎵 FocusFlow - Lofi Music & Focus App
+<div align="center">
+
+| Main Dashboard | Station Detail | Pomodoro Timer |
+|:--------------:|:--------------:|:--------------:|
+| <img src="https://github.com/GoktugGok/FocusFlow-Lofi-Life/raw/main/assets/screenshots/main.png" width="90%" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="FocusFlow Main"/> | <img src="https://github.com/GoktugGok/FocusFlow-Lofi-Life/raw/main/assets/screenshots/detail.png" width="90%" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="FocusFlow Detail"/> | <img src="https://github.com/GoktugGok/FocusFlow-Lofi-Life/raw/main/assets/screenshots/timer.png" width="90%" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="FocusFlow Timer"/> |
+
+**Modern lofi music app with Pomodoro timer, real-time chat & ambient sounds**
+
+[![View Project](https://img.shields.io/badge/View_Project-Repository-blue?style=for-the-badge)](https://github.com/GoktugGok/FocusFlow-Lofi-Life)
+
+</div>
+
+---
+
+### 🛍️ E-Commerce Projects
 <table>
   <tr>
-    <!-- SOLDAKİ PROJE: Shoes Shop -->
-    <td align="center" width="50%">
+    <!-- Shoes Shop -->
+    <td align="center" width="33%">
+      <h3>Shoes Shop</h3>
       <a href="https://github.com/GoktugGok/Shoes_Shop">
         <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home.png" width="90%" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop"/>
       </a>
-      <br/>
-      <b>Shoes Shop</b>
       <br/>
       <sub>Django-based e-commerce platform</sub>
       <br/><br/>
       <!-- Alt galeri -->
       <a href="https://github.com/GoktugGok/Shoes_Shop">
-        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home2.png" width="30%" style="margin:5px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 2"/>
+        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home2.png" width="30%" style="margin:2px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 2"/>
       </a>
       <a href="https://github.com/GoktugGok/Shoes_Shop">
-        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home3.png" width="30%" style="margin:5px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 3"/>
+        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home3.png" width="30%" style="margin:2px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 3"/>
       </a>
     </td>
-    <!-- SAĞDAKİ PROJE: Jewelry E-Commerce -->
-    <td align="center" width="50%">
+    
+    <!-- Jewelry E-Commerce -->
+    <td align="center" width="33%">
+      <h3>Jewelry E-Commerce</h3>
       <a href="https://github.com/GoktugGok/jewelry-e-commerce">
         <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/mainC.gif" width="90%" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce"/>
       </a>
       <br/>
-      <b>Jewelry E-Commerce</b>
-      <br/>
-      <sub>Pandora-style, real-time filtering & mobile-friendly shopping site</sub>
+      <sub>Pandora-style, real-time filtering & mobile-friendly</sub>
       <br/><br/>
       <!-- Alt galeri -->
       <a href="https://github.com/GoktugGok/jewelry-e-commerce">
-        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/menuC.gif" width="30%" style="margin:5px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry Menu"/>
+        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/menuC.gif" width="30%" style="margin:2px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry Menu"/>
       </a>
       <a href="https://github.com/GoktugGok/jewelry-e-commerce">
-        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/productC.gif" width="30%" style="margin:5px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry Product"/>
+        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/productC.gif" width="30%" style="margin:2px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry Product"/>
+      </a>
+    </td>
+    
+    <!-- MovieApp -->
+    <td align="center" width="33%">
+      <h3>MovieApp</h3>
+      <a href="https://github.com/GoktugGok/MovieApp-React-Native">
+        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/main_screen.jpeg" width="90%" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Main"/>
+      </a>
+      <br/>
+      <sub>React Native movie discovery app</sub>
+      <br/><br/>
+      <!-- Alt galeri -->
+      <a href="https://github.com/GoktugGok/MovieApp-React-Native">
+        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/movie-detail_screen.jpeg" width="30%" style="margin:2px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Detail"/>
+      </a>
+      <a href="https://github.com/GoktugGok/MovieApp-React-Native">
+        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/search_screen.jpeg" width="30%" style="margin:2px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Search"/>
       </a>
     </td>
   </tr>
 </table>
 
-<!-- TEK SIRA GENİŞ PROJE: MovieApp -->
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>MovieApp – React Native</h3>
-        <p>Modern movie discovery app (React Native + TS + TMDB API)</p>
-        <a href="https://github.com/GoktugGok/MovieApp-React-Native">
-          <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/main_screen.jpeg" width="28%" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Main"/>
-        </a>
-        <a href="https://github.com/GoktugGok/MovieApp-React-Native">
-          <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/movie-detail_screen.jpeg" width="28%" style="margin:5px; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Detail"/>
-        </a>
-        <a href="https://github.com/GoktugGok/MovieApp-React-Native">
-          <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/search_screen.jpeg" width="28%" style="margin:5px; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Search"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+
+![Göktuğ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoktugGok&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoktugGok&layout=compact&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokgoktug0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/GoktugGok)
+
+**Thanks for visiting my profile! 🚀**
+
 </div>
