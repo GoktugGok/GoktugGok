@@ -112,6 +112,16 @@
           <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/search_screen.jpeg" width="28%" style="margin:5px; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Search"/>
         </a>
       </td>
+      <td align="center">
+        <h3>🎵 FocusFlow - Lofi Music & Focus App</h3>
+        <p>Modern movie discovery app (React Native + TS + TMDB API)</p>
+        <a href="https://github.com/GoktugGok/FocusFlow">
+        <img src="https://github.com/GoktugGok/FocusFlow/blob/main/screenshot/details-gif.gif" width="30%" style="margin:5px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry Menu"/>
+      </a>
+      <a href="https://github.com/GoktugGok/FocusFlow">
+        <img src="https://github.com/GoktugGok/FocusFlow/blob/main/screenshot/main.png" width="30%" style="margin:5px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry Product"/>
+      </a>
+      </td>
     </tr>
   </table>
 </div>
