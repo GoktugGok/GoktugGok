@@ -123,7 +123,7 @@
       <br/><br/>
       <!-- Alt galeri -->
       <a href="https://github.com/GoktugGok/FocusFlow">
-        <img src="https://github.com/GoktugGok/FocusFlow/blob/main/screenshot/main.png" width="100%" style="margin:5px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry Product"/>
+        <img src="https://github.com/GoktugGok/FocusFlow/blob/main/screenshot/main.png" width="50%" style="margin:5px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry Product"/>
       </a>
       <a href="https://github.com/GoktugGok/jewelry-e-commerce">
         <img src="https://github.com/GoktugGok/FocusFlow/blob/main/screenshot/login.png" width="50%" style="margin:5px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry Product"/>
