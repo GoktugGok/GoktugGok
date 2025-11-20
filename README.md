@@ -65,64 +65,36 @@
 
 ---
 
-### 🛍️ E-Commerce Projects
-<table>
-  <tr>
-    <!-- Shoes Shop -->
-    <td align="center" width="33%">
-      <h3>Shoes Shop</h3>
-      <a href="https://github.com/GoktugGok/Shoes_Shop">
-        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home.png" width="90%" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop"/>
-      </a>
-      <br/>
-      <sub>Django-based e-commerce platform</sub>
-      <br/><br/>
-      <!-- Alt galeri -->
-      <a href="https://github.com/GoktugGok/Shoes_Shop">
-        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home2.png" width="30%" style="margin:2px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 2"/>
-      </a>
-      <a href="https://github.com/GoktugGok/Shoes_Shop">
-        <img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home3.png" width="30%" style="margin:2px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 3"/>
-      </a>
-    </td>
-    
-    <!-- Jewelry E-Commerce -->
-    <td align="center" width="33%">
-      <h3>Jewelry E-Commerce</h3>
-      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
-        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/mainC.gif" width="90%" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce"/>
-      </a>
-      <br/>
-      <sub>Pandora-style, real-time filtering & mobile-friendly</sub>
-      <br/><br/>
-      <!-- Alt galeri -->
-      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
-        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/menuC.gif" width="30%" style="margin:2px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry Menu"/>
-      </a>
-      <a href="https://github.com/GoktugGok/jewelry-e-commerce">
-        <img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/productC.gif" width="30%" style="margin:2px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry Product"/>
-      </a>
-    </td>
-    
-    <!-- MovieApp -->
-    <td align="center" width="33%">
-      <h3>MovieApp</h3>
-      <a href="https://github.com/GoktugGok/MovieApp-React-Native">
-        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/main_screen.jpeg" width="90%" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Main"/>
-      </a>
-      <br/>
-      <sub>React Native movie discovery app</sub>
-      <br/><br/>
-      <!-- Alt galeri -->
-      <a href="https://github.com/GoktugGok/MovieApp-React-Native">
-        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/movie-detail_screen.jpeg" width="30%" style="margin:2px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Detail"/>
-      </a>
-      <a href="https://github.com/GoktugGok/MovieApp-React-Native">
-        <img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/search_screen.jpeg" width="30%" style="margin:2px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Search"/>
-      </a>
-    </td>
-  </tr>
-</table>
+### 🛍️ E-Commerce & Mobile Projects
+
+<div align="center">
+
+#### 👟 Shoes Shop - Django E-Commerce
+[![Shoes Shop](https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home.png)](https://github.com/GoktugGok/Shoes_Shop)
+*Full-featured e-commerce platform with Django backend*
+
+<img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home2.png" width="30%" style="margin:5px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 2"/>
+<img src="https://github.com/GoktugGok/Shoes_Shop/raw/main/screenshots/home3.png" width="30%" style="margin:5px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Shoes Shop 3"/>
+
+<br/>
+
+#### 💎 Jewelry E-Commerce - Pandora Style  
+[![Jewelry Store](https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/mainC.gif)](https://github.com/GoktugGok/jewelry-e-commerce)
+*Real-time filtering & mobile-friendly shopping experience*
+
+<img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/menuC.gif" width="30%" style="margin:5px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry Menu"/>
+<img src="https://github.com/GoktugGok/jewelry-e-commerce/raw/main/screenshots/productC.gif" width="30%" style="margin:5px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry Product"/>
+
+<br/>
+
+#### 🎬 MovieApp - React Native
+[![MovieApp](https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/main_screen.jpeg)](https://github.com/GoktugGok/MovieApp-React-Native)
+*Movie discovery app with TMDB API integration*
+
+<img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/movie-detail_screen.jpeg" width="30%" style="margin:5px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Detail"/>
+<img src="https://github.com/GoktugGok/MovieApp-React-Native/raw/main/assets/screenshots/search_screen.jpeg" width="30%" style="margin:5px; border-radius:6px; box-shadow:0 2px 6px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="MovieApp Search"/>
+
+</div>
 
 ---
 
