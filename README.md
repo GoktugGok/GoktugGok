@@ -114,7 +114,7 @@
       </td>
       <td align="center" width="50%">
       <a href="https://github.com/GoktugGok/FocusFlow">
-        <img src="https://github.com/GoktugGok/FocusFlow/blob/main/screenshot/details-gif.gif" width="90%" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce"/>
+        <img src="https://github.com/GoktugGok/FocusFlow/blob/main/screenshot/details-gif.gif" width="100%" style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.15); border:1px solid #ccc;" alt="Jewelry E-Commerce"/>
       </a>
       <br/>
       <b>🎵 FocusFlow - Lofi Music & Focus App</b>
